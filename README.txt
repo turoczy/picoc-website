@@ -1,1 +1,1 @@
-This is the source repository for the Portland Independent Chamber of Commerce’s website. Visit us at http://picoc.co
+This is the source repository for the Portland Interdependent Chamber of Commerce’s website. Visit us at http://picoc.co
